@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # Java Loops II
 
 We use the integers *a, b*, and *n* to create the following series:
