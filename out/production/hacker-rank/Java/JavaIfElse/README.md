@@ -21,9 +21,9 @@ Complete the stub code provided in your editor to print whether or not is weird.
 A single line containing a positive integer, **n**.
 
 **Constraints**
-
-![formula](https://render.githubusercontent.com/render/math?math=\large1%20≤%20n%20≤%20100)
-
+$$
+1 ≤ n ≤ 100
+$$
 **Output Format**
 
 Print `Weird` if the number is weird; otherwise, print `Not Weird`.
