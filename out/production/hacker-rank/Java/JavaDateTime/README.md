@@ -37,9 +37,9 @@ Complete the *findDay* function in the editor below.
 A single line of input containing the space separated month, day and year, respectively, ***MM DD YYYY*** in  format.
 
 **Constraints**
-$$
-2000 < year < 3000
-$$
+
+![formula](https://render.githubusercontent.com/render/math?math=\large2000%20<%20year%20<%203000)
+
 **Sample Input**
 
 ```

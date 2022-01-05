@@ -13,13 +13,9 @@ If ***B ≤ 0*** or ***H ≤ 0***, the output should be *"java.lang.Exception: B
 There are two lines of input. The first line contains ***B***: the breadth of the parallelogram. The next line contains ***H***: the height of the parallelogram.
 
 **Constraints**
-$$
-100 ≤ B ≤ 100
-$$
 
-$$
--100 ≤ H ≤100
-$$
+- ![formula](https://render.githubusercontent.com/render/math?math=\large100%20≤%20B%20≤%20100)
+- ![formula](https://render.githubusercontent.com/render/math?math=\large-100%20≤%20H%20≤100)
 
 **Output Format**
 

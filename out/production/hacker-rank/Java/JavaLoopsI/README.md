@@ -11,9 +11,9 @@ Given an integer, ***N*** , print its ***10*** first multiples. Each multiple **
 A single integer, ***N***.
 
 **Constraints**
-$$
-2 ≤ N ≤ 20
-$$
+
+![formula](https://render.githubusercontent.com/render/math?math=\large2%20≤%20N%20≤%2020)
+
 **Output Format**
 
 Print **10** lines of output; each line ***i*** (where  ***1 ≤ i ≤  10***) contains the ***result*** of ***N x i*** in the form:

@@ -21,9 +21,9 @@ Complete the stub code provided in your editor to print whether or not is weird.
 A single line containing a positive integer, **n**.
 
 **Constraints**
-$$
-1 ≤ n ≤ 100
-$$
+
+![formula](https://render.githubusercontent.com/render/math?math=\large1%20≤%20n%20≤%20100)
+
 **Output Format**
 
 Print `Weird` if the number is weird; otherwise, print `Not Weird`.
@@ -55,7 +55,9 @@ Not Weird
 **Explanation**
 
 *Sample Case 0:* **n = 3**
+
 **n** is odd and odd numbers are weird, so we print `Weird`.
 
 *Sample Case 1:* **n = 24**
+
 **n > 20** and **n** is even, so it isn't weird. Thus, we print `Not Weird`.
